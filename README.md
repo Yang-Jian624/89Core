@@ -35,7 +35,7 @@ https://www.coreboot.org/
 
 原名**`LinuxBIOS`**。是一个旨在取代计算机PC中专有固件（`BIOS`或`UEFI`）的软件项目
 
-<img src="https://www.coreboot.org/assets/images/banner.svg"  align='left'/>
+<img src="https://www.coreboot.org/assets/images/banner.svg"/>
 
 
 
@@ -66,5 +66,6 @@ UEFI界中的乐高
 ## 参考
 
 - [字节跳动首发云固件，成功实现服务器LinuxBoot产品化落地](https://page.om.qq.com/page/OclAl9DthdvYPEF_CVPfs79A0)
-- https://zhuanlan.zhihu.com/p/366092098
+- [下一代BIOS标准探讨之四：UEFI界中的乐高—MinPlatform](https://zhuanlan.zhihu.com/p/366092098)
 - 
+
